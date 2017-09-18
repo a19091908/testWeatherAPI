@@ -1,0 +1,22 @@
+@CHARSET "utf-8";
+
+table {
+	margin: auto;
+	width: 96%;
+	background-color: lightskyblue;
+	border: solid;
+}
+
+td, th {
+	border: solid;
+	text-align: center;
+}
+
+th {
+	text-align: center;
+	font-size: 2rem;
+}
+
+.tName {
+	font-size: 1.9rem;
+}
